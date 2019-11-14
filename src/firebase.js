@@ -1,6 +1,6 @@
 import * as firebase from "firebase";
 const config = {
-  apiKey: "replace-this",
+  apiKey: "AIzaSyAC01GXLmtHOyKJ-hQFrsOadOjIfsKWVvs",
   authDomain: "todo-3ace1.firebaseapp.com",
   databaseURL: "https://todo-3ace1.firebaseio.com",
   projectId: "todo-3ace1",
